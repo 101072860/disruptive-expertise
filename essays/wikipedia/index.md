@@ -1,7 +1,7 @@
 ---
 title: The Rise of Television Technology
 layout: scrollstory
-header-image: images/jimmy-wales-imac.jpg
+header-image: old-tv-1930.jpg.jpg
 thumbnail: images/jimmy-wales-imac.jpg
 summary: A look at how television transformed communication, culture, and public trust in information.
 header-title: Wikipedia and the Wisdom of the Crowd
