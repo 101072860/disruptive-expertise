@@ -9,12 +9,12 @@ header-subtitle: How a New Screen Changed Communication Forever
 header-position: center
 ---
 
-1. The Technology: What Is Television?
+# The Technology: What Is Television?
 Television is a communication technology that transmits moving images and synchronized sound to a receiving device. Early experiments with mechanical television began in the 1920s, led by inventors such as John Logie Baird in the United Kingdom and Charles Francis Jenkins in the United States. By the late 1930s, electronic television—developed by Philo Farnsworth and Vladimir Zworykin—became the dominant model due to its higher image quality and reliability.
 
 Commercial broadcasting expanded rapidly after World War II. In the United States, the number of households with a television set grew from fewer than 1% in 1945 to more than 80% by 1960 (U.S. Census Bureau, 2013). Television quickly became a central medium for entertainment, news, advertising, and political communication.
 
-2. The Moment of Rupture
+# The Moment of Rupture
 Television represented a major rupture in the history of information because it combined the visual immediacy of film with the real-time transmission of radio. For the first time, people could witness events as they happened—political speeches, sports, breaking news—without being physically present.
 
 This created both excitement and anxiety. Commentators believed television would:
@@ -31,7 +31,7 @@ challenge newspapers and radio
 
 The idea that millions of people could watch the same event simultaneously was unprecedented. As media historian Lynn Spigel notes, television “reorganized the rhythms of domestic life and the structure of public communication” (Spigel, Make Room for TV, 1992).
 
-3. Contemporary Reactions
+# Contemporary Reactions
 Reactions to early television were deeply divided.
 
 Optimism
@@ -57,7 +57,7 @@ In 1935, the BBC’s Radio Times described Baird’s early television as “a ma
 
 This mix of excitement and fear mirrors reactions to many new technologies throughout history.
 
-4. What Actually Happened
+# What Actually Happened
 Many early predictions—both hopeful and fearful—proved partly correct.
 
 What Came True
@@ -78,7 +78,7 @@ It did not replace all other media; instead, it coexisted with them.
 
 Television became a powerful tool for education, public information, and global awareness, especially during major events such as the moon landing in 1969, which was watched by an estimated 600 million people worldwide (NASA, 2019).
 
-5. Connection to AI
+# Connection to AI
 The debates surrounding artificial intelligence today closely resemble the debates that surrounded television in the mid‑20th century.
 
 Similarities
@@ -96,7 +96,7 @@ AI is likely to follow a similar pattern: disruptive, transformative, and deeply
 
 Understanding past technological ruptures helps us approach AI with more perspective and less panic.
 
-REFERENCES (VERIFIED SOURCES)
+# REFERENCES (VERIFIED SOURCES)
 BBC Archives. Radio Times, January 1935 issue.
 
 NASA. “Apollo 11 Mission Overview.” 2019.
