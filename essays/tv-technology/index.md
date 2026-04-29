@@ -32,7 +32,7 @@ challenge newspapers and radio
 The idea that millions of people could watch the same event simultaneously was unprecedented. As media historian Lynn Spigel notes, television “reorganized the rhythms of domestic life and the structure of public communication” (Spigel, Make Room for TV, 1992).
 
 {% include images/figure-wrap.html
-  image-path="images/"
+  image-path="images/television-set-with-nes.jpg"
   image-position="right"
   image-width="46%"
   caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
