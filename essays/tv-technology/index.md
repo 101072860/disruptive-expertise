@@ -19,15 +19,15 @@ Television represented a major rupture in the history of information because it 
 
 This created both excitement and anxiety. Commentators believed television would:
 
-democratize access to information
+Democratize access to information
 
-reshape family life
+Reshape family life
 
-transform politics
+Transform politics
 
-influence children’s development
+Influence children’s development
 
-challenge newspapers and radio
+Challenge newspapers and radio
 
 The idea that millions of people could watch the same event simultaneously was unprecedented. As media historian Lynn Spigel notes, television “reorganized the rhythms of domestic life and the structure of public communication” (Spigel, Make Room for TV, 1992).
 
