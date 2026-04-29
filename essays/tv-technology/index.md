@@ -58,9 +58,7 @@ Parents complained that TV would “weaken the mind” and reduce attention span
 A 1955 New York Times editorial warned that television might create “a passive citizenry vulnerable to manipulation.”
 (Reference: New York Times, March 27, 1955, “Television and the Public Mind.”)
 
-Primary Source Example
-In 1935, the BBC’s Radio Times described Baird’s early television as “a marvel that may one day bring the world into the living room.”
-(Reference: Radio Times, January 1935 issue, BBC Archives.)
+A 1935 issue of the Radio Times captured the sense of wonder surrounding early television when it described John Logie Baird’s invention as “a marvel that may one day bring the world into the living room” (BBC Archives, 1935). This statement reflects the excitement and optimism of the era: people saw television not as a simple machine, but as a revolutionary window capable of connecting ordinary households to events, cultures, and stories far beyond their reach. The quote highlights how extraordinary the idea felt at the time—imagining a device that could shrink the world and place it directly in front of viewers, long before such a thing seemed possible.
 
 This mix of excitement and fear mirrors reactions to many new technologies throughout history.
 
