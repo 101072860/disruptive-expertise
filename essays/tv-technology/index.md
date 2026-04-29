@@ -91,7 +91,7 @@ Television became a powerful tool for education, public information, and global 
 %}
 
 # Connection to AI
-The debates surrounding artificial intelligence today closely resemble the debates that surrounded television in the mid‑20th century.
+The debates surrounding artificial intelligence today echo the very same hopes and fears that surrounded the rise of television in the mid‑20th century. In those years, television was not merely a new device—it was a profound shift in how humanity communicated, learned, and understood the world. Some welcomed it as a tool of progress; others feared it would disrupt traditions, reshape society, or erode established norms. Yet television ultimately became a unifying force, expanding education, strengthening civic awareness, and connecting families across the nation. Today, artificial intelligence stands at a similar crossroads. Just as television once challenged us to rethink the boundaries of communication, AI challenges us to rethink the boundaries of knowledge itself. And just as we did then, we must meet this moment not with fear, but with wisdom, responsibility, and the confidence that innovation—when guided by human values—can elevate our society and open doors to a future worthy of our highest aspirations.
 
 Similarities
 Both technologies were seen as revolutionary and potentially dangerous.
