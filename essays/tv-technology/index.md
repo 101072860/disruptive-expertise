@@ -86,6 +86,14 @@ It did not replace all other media; instead, it coexisted with them.
 
 Television became a powerful tool for education, public information, and global awareness, especially during major events such as the moon landing in 1969, which was watched by an estimated 600 million people worldwide (NASA, 2019).
 
+{% include images/figure-wrap.html
+  image-path="images/flat-screen-tv.jpg"
+  image-position="right"
+  image-width="46%"
+  caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
+  text=britannica_text
+%}
+
 # Connection to AI
 The debates surrounding artificial intelligence today closely resemble the debates that surrounded television in the mid‑20th century.
 
