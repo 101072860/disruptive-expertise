@@ -113,6 +113,13 @@ AI is likely to follow a similar pattern: disruptive, transformative, and deeply
 
 Understanding past technological ruptures helps us approach AI with more perspective and less panic. History shows that every major innovation—from the printing press to television—initially generated fear, resistance, and uncertainty. People often fear change not because the technology is dangerous, but because it challenges familiar routines and forces society to adapt. As Henry Ford famously remarked, “If I had asked people what they wanted, they would have said faster horses.” His point remains relevant today: the public often imagines the future through the lens of the past, while true innovation requires imagining what does not yet exist. Just as television transformed education, communication, and culture despite early skepticism, AI has the potential to reshape our world in ways we are only beginning to understand. By studying how previous technologies disrupted—and ultimately improved—daily life, we can approach AI not with fear, but with informed curiosity and the confidence that humanity has successfully navigated transformative change many times before.
 
+# How I Used AI
+I used AI as a supportive tool throughout the creation of this project, but never as a replacement for my own writing, research, or expertise. My use of AI was similar to how one might use a tutor, a writing coach, or a brainstorming partner. I relied on it to help me clarify instructions, organize my thoughts, and refine the structure of certain sections when I felt overwhelmed by the amount of historical material I wanted to include. AI also assisted me in checking grammar, improving sentence flow, and ensuring that my ideas were communicated clearly and professionally.
+
+However, every paragraph, historical interpretation, and example in this essay comes from my own understanding, my own research, and my personal experience working in the television industry. AI did not generate any section of the essay; instead, it helped me think more critically about how to present my ideas in a coherent and accessible way. In moments when I felt stuck or unsure about how to transition between topics, AI provided suggestions that I evaluated, adapted, or rewrote entirely in my own voice.
+
+In this sense, AI functioned not as an author, but as a tool—one that supported my learning process, helped me stay organized, and allowed me to express my perspective with greater clarity. The final work reflects my own knowledge, my professional background, and my personal engagement with the history of television and its connection to modern technological debates.
+
 # REFERENCES (VERIFIED SOURCES)
 BBC Archives. Radio Times, January 1935 issue.
 
